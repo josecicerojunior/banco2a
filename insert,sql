@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+
+
+INSERT INTO alunos(id, nome, sobrenome, endereco, telefone, email)
+
+VALUES (DEFAULT, 'José','da Silva','Rua ABC','62999999999','josedasilva@gmail.com')
