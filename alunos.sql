@@ -2,7 +2,7 @@
 
 
 
-
+CREATE DATABASE plinio_jaime;
 
 
 
@@ -16,3 +16,6 @@ CREATE TABLE alunos (
 	
 	PRIMARY KEY(id)
 )DEFAULT CHARSET = UTF8;
+
+
+

@@ -6,7 +6,23 @@
 
 
 
-
+-- INSERE DADOS NO BANCO
 INSERT INTO alunos(id, nome, sobrenome, endereco, telefone, email)
 
 VALUES (DEFAULT, 'José','da Silva','Rua ABC','62999999999','josedasilva@gmail.com')
+
+-- LISTA TODOS OS REGISTROS DO BANCO 
+SELECT * FROM alunos;
+
+-- APAGA O BANCO DE DAOOS
+DROP table alunos;
+
+
+INSERT INTO alunos(id, nome, sobrenome, endereco, telefone, email)
+
+VALUES (DEFAULT, 'Julia','Ferreira','Rua 15 de novembro','62999999800','julia@gmail.com')
+
+a
+
+-- Link git hub
+https://github.com/josecicerojunior/banco2a
